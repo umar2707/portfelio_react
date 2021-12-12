@@ -18,7 +18,15 @@ const About = () => {
                     It is a long established  fact that a reader will be distracted by the redable content.
                 </p>
                 <p className="a-desc">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, excepturi? Non rerum deleniti alias, temporibus unde ipsa, nulla ex similique possimus sit illum cum mollitia autem consectetur, porro pariatur illo!
+                TASHKENT UNIVERSITY OF INFORMATION TECHNOLOGIES, Tashkent , UZ <br />
+                Bachelor of Science
+                <br /> (Major: TELECOMMUNICATION TECHNOLOGIES;), September 2021
+                <br />
+                Certifications
+                <br />
+                Technical Skills:
+                <br />
+                Software & Tools: HTML, CSS, SASS, BOOTSTRAP, REACT • Languages: C++, JavaScript, NODEJS
                 </p>
                 <div className="a-award">
                  <i class="fab fa-html5"></i>
