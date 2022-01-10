@@ -5,8 +5,8 @@ import logo from '../img/resume.jpg'
 
 class Cv extends Component {
     pdfGenerate = () =>{
-        var doc = new jsPDF('landscape','px','a4','false')
-        doc.addImage(logo,'PNG',65,20,500,400)
+        var doc = new jsPDF('portrait','mm','a4','false')
+        doc.addImage(logo,'JPG',0,0,200,300)
         doc.save('resume(rakhimberganov).pdf')
     }
     render() {
