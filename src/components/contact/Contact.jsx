@@ -66,9 +66,9 @@ const Contact = () => {
                             <img src={whatsapp} alt="whatsapp" className="soc-img"/>
                             <h5 style={{color: darkMode && "#fff"}} className="soc-title">+998 99 966 33 03</h5>
                         </a>
-                        <a rel="noreferrer" target="_blank"  href="https://t.me/u7707" className="soc-item">
+                        <a rel="noreferrer" target="_blank"  href="https://t.me/dev7707" className="soc-item">
                             <img src={telegram} alt="telegram" className="soc-img"/>
-                            <h5 style={{color: darkMode && "#fff"}} className="soc-title">@U7707</h5>
+                            <h5 style={{color: darkMode && "#fff"}} className="soc-title">@dev7707</h5>
                         </a>
                         <a rel="noreferrer" target="_blank"  href="https://github.com/umar2707" className="soc-item">
                             <img src={github} alt="github" className="soc-img"/>
