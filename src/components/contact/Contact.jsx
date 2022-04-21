@@ -62,9 +62,9 @@ const Contact = () => {
                             <img src={instagram} alt="instagram" className="soc-img"/>
                             <h5 style={{color: darkMode && "#fff"}} className="soc-title">@umar_off27</h5>
                         </a>
-                        <a rel="noreferrer" target="_blank"  href="https://wa.me/+998999663303" className="soc-item">
+                        <a rel="noreferrer" target="_blank"  href="https://wa.me/+998948900817" className="soc-item">
                             <img src={whatsapp} alt="whatsapp" className="soc-img"/>
-                            <h5 style={{color: darkMode && "#fff"}} className="soc-title">+998 99 966 33 03</h5>
+                            <h5 style={{color: darkMode && "#fff"}} className="soc-title">+998 94 890 08 17</h5>
                         </a>
                         <a rel="noreferrer" target="_blank"  href="https://t.me/dev7707" className="soc-item">
                             <img src={telegram} alt="telegram" className="soc-img"/>

@@ -26,7 +26,7 @@ const About = () => {
                 <br />
                 Technical Skills:
                 <br />
-                Software & Tools: HTML, CSS, SASS, BOOTSTRAP, REACT • Languages: C++, JavaScript, NODEJS
+                Software & Tools: HTML, CSS, SASS, BOOTSTRAP, REACT, REDUX • Languages: C++, JavaScript, NODEJS
                 </p>
                 <div className="a-award">
                  <i class="fab fa-html5"></i>
