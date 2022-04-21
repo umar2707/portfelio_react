@@ -1,6 +1,7 @@
 import port1 from "./img/port1.jpg"
 import port2 from "./img/port2.jpg"
 import port3 from "./img/port3.jpg"
+import port4 from "./img/port4.jpg"
 export const products = [
     {
         id:1,
@@ -16,5 +17,10 @@ export const products = [
         id:3,
         img: port3,
         link:"https://umarport3.netlify.app/",
+    },
+    {
+        id:4,
+        img: port4,
+        link:"http://enfive.uz",
     },
 ]
