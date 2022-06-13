@@ -9,6 +9,7 @@ class Cv extends Component {
         doc.addImage(logo,'JPG',0,0,200,300)
         doc.save('resume(rakhimberganov).pdf')
     }
+    
     render() {
         return (
             <div> 
